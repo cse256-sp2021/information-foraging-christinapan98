@@ -1,5 +1,6 @@
 @import url("common.css");
 @import url("side_menu.css");
+
 main ul {
     margin-top: 1em;
 }
@@ -14,6 +15,13 @@ main li {
     margin-bottom: 1em;
     clear: both;
     overflow: hidden;
+}
+
+.info {
+    margin-bottom: 3em;
+}
+.mod {
+    margin-top: 3em;
 }
 
 .classroom img {
